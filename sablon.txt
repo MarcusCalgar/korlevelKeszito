@@ -1,0 +1,7 @@
+${NEV} részére
+${EMAIL} 
+${SZULDATUM}
+
+Kedves ${NEV}!
+Nagyon örülünk, hogy a szolgáltatásunkat választotta. Bízunk benne, hogy hosszú évekig ügyfelünk között tudhatjuk.
+Tisztelettel, Gipsz Jakab Gipsz 2000 Kft.
